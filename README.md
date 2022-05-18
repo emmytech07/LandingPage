@@ -15,3 +15,6 @@
 ### NB
 - Images and words used are not licensed
 
+### License
+
+This project is [MIT](./LICENSE) licensed.
