@@ -15,6 +15,9 @@
 ### NB
 - Images and words used are not licensed
 
+### External Link
+-Yes, external link from wikipedia was added to the page. When the external link is click, it then re-direct to https://en.wikipedia.org/wiki/Norman_Borlaug
+
 ### License
 
 This project is [MIT](./LICENSE) licensed.
