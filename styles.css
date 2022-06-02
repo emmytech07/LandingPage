@@ -1,0 +1,47 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    background-color: antiquewhite;
+}
+
+#main {
+    text-align: center;
+    line-height: 1;
+} 
+
+#title {
+    margin: 1em;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5em;
+    padding: 10px;
+    margin-bottom: 0%;
+}
+
+p {
+    margin-top: 15px;
+    font-size: 16x;
+    margin-bottom: 20px;
+}
+
+#img-div {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+#img-caption {
+    background-color: aliceblue;
+    font-size: 17px;
+    padding:20px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+#tribute-info {
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    line-height: 3em;
+}
+
+#head {
+    margin: 1em;
+}
